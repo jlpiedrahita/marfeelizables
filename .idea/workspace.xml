@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="735523f5-5e57-4dcd-8d02-c71ec1702cdf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="marfeelizables" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TTGnhLxI7lSE0dYJ8mq2FXe1Yn" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.jlpiedrahita.marfeelizables.service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jlpiedrahita.marfeelizables" />
+      <recent name="" />
+      <recent name="com.jlpiedrahita.marfeelizables.util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in marfeelizables">
+    <configuration name="All in marfeelizables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="marfeelizables" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarfeelizableStrategyTest.testHeadKeywordsAreCaseInsensitive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="marfeelizables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jlpiedrahita.marfeelizables" />
+      <option name="MAIN_CLASS_NAME" value="com.jlpiedrahita.marfeelizables.MarfeelizableStrategyTest" />
+      <option name="METHOD_NAME" value="testHeadKeywordsAreCaseInsensitive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarfeelizablesControllerTest.testBadRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="marfeelizables" />
+      <option name="PACKAGE_NAME" value="com.jlpiedrahita.marfeelizables" />
+      <option name="MAIN_CLASS_NAME" value="com.jlpiedrahita.marfeelizables.MarfeelizablesControllerTest" />
+      <option name="METHOD_NAME" value="testBadRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarfeelizablesControllerTest.testCallsHttpClientService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="marfeelizables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jlpiedrahita.marfeelizables" />
+      <option name="MAIN_CLASS_NAME" value="com.jlpiedrahita.marfeelizables.MarfeelizablesControllerTest" />
+      <option name="METHOD_NAME" value="testCallsHttpClientService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarfeelizablesControllerTest.testHandlesInvalidRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="marfeelizables" />
+      <option name="PACKAGE_NAME" value="com.jlpiedrahita.marfeelizables" />
+      <option name="MAIN_CLASS_NAME" value="com.jlpiedrahita.marfeelizables.MarfeelizablesControllerTest" />
+      <option name="METHOD_NAME" value="testHandlesInvalidRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="marfeelizables wrapper" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-N" />
+                <option value="io.takari:maven:0.7.6:wrapper" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="marfeelizables" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MarfeelizablesControllerTest.testBadRequest" />
+      <item itemvalue="JUnit.MarfeelizablesControllerTest.testHandlesInvalidRequest" />
+      <item itemvalue="JUnit.All in marfeelizables" />
+      <item itemvalue="JUnit.MarfeelizableStrategyTest.testHeadKeywordsAreCaseInsensitive" />
+      <item itemvalue="Maven.marfeelizables wrapper" />
+      <item itemvalue="Maven.marfeelizables" />
+      <item itemvalue="JUnit.MarfeelizablesControllerTest.testCallsHttpClientService" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in marfeelizables" />
+        <item itemvalue="JUnit.MarfeelizablesControllerTest.testCallsHttpClientService" />
+        <item itemvalue="JUnit.MarfeelizableStrategyTest.testHeadKeywordsAreCaseInsensitive" />
+        <item itemvalue="JUnit.MarfeelizablesControllerTest.testHandlesInvalidRequest" />
+        <item itemvalue="JUnit.MarfeelizablesControllerTest.testBadRequest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="735523f5-5e57-4dcd-8d02-c71ec1702cdf" name="Default Changelist" comment="" />
+      <created>1573476840432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573476840432</updated>
+      <workItem from="1573476841824" duration="20071000" />
+      <workItem from="1573637247945" duration="20111000" />
+      <workItem from="1573722591813" duration="24598000" />
+      <workItem from="1573900032955" duration="29199000" />
+      <workItem from="1574070503171" duration="3365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
